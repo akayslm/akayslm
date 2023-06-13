@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JS and React**
 
-- 💬 Ask me about **C#, ASP. Net MVC, SQL, HTML, CSS, JS, React**
+- 💬 Ask me about **C#, ASP. Net MVC, EF, Rest API, SQL, HTML, CSS, JS, React**
 
 - 📫 How to reach me **selimakay@gmail.com**
 
